@@ -1,0 +1,10 @@
+int submult(int a, int b, int c)
+{
+    return a - b * c;
+}
+
+int main()
+{
+    soma (6, 4 , 2)
+    return 0;
+}
